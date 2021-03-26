@@ -1,0 +1,2 @@
+E:\01.C++\Workspace\Address_list\Debug\Address_list.exe
+E:\01.C++\Workspace\Address_list\Debug\Address_list.pdb
